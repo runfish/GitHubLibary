@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/469/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl
+END
+CategoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/455/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/CategoryServiceImpl.java
+END
+GoodsQueryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/469/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/GoodsQueryHelper.java
+END
+CustomerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/466/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/CustomerServiceImpl.java
+END
+ShoppingCartServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/447/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/ShoppingCartServiceImpl.java
+END
+DealQuryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/448/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/DealQuryHelper.java
+END
+DealItemServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/447/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/DealItemServiceImpl.java
+END
+DealServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/465/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/DealServiceImpl.java
+END
+SmallCategoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/455/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/SmallCategoryServiceImpl.java
+END
+GoodsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/432/trunk/supershop01-01/src/net/dfrz/supershop01/servicesimpl/GoodsServiceImpl.java
+END

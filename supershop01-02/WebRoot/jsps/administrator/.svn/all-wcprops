@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/419/trunk/supershop01-02/WebRoot/jsps/administrator
+END
+add_administrator.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/419/trunk/supershop01-02/WebRoot/jsps/administrator/add_administrator.jsp
+END
+list_administrator.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/305/trunk/supershop01-02/WebRoot/jsps/administrator/list_administrator.jsp
+END
+update_administrator.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/326/trunk/supershop01-02/WebRoot/jsps/administrator/update_administrator.jsp
+END

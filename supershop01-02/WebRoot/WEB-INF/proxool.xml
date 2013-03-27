@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<something-else-entirely>
+
+  <proxool>
+  
+    <alias>supershop01-ds</alias>
+    
+
+    <driver-url>jdbc:oracle:thin:@dfrz004.xicp.net:1521:RZORCL</driver-url>
+
+    <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+    
+    <driver-properties>
+      <property name="user" value="supershop01"/>
+      <property name="password" value="abc123"/>
+    </driver-properties>
+    
+
+    <maximum-connection-count>100</maximum-connection-count> 
+    
+
+    <minimum-connection-count>10</minimum-connection-count>    
+
+
+    <proxool.simultaneous-build-throttle>10</proxool.simultaneous-build-throttle>    
+     
+    <house-keeping-sleep-time>90000</house-keeping-sleep-time>  
+
+    <prototype-count>5</prototype-count>    
+
+    <test-before-use>true</test-before-use>  
+
+    <house-keeping-test-sql>select sysdate from dual</house-keeping-test-sql>  
+
+  </proxool>
+  
+</something-else-entirely>

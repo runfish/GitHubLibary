@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/469/trunk/supershop01-01/src/net/dfrz/supershop01/domain
+END
+ShoppingCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/215/trunk/supershop01-01/src/net/dfrz/supershop01/domain/ShoppingCart.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/466/trunk/supershop01-01/src/net/dfrz/supershop01/domain/Customer.java
+END
+ObjectValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/447/trunk/supershop01-01/src/net/dfrz/supershop01/domain/ObjectValue.java
+END
+DealItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/447/trunk/supershop01-01/src/net/dfrz/supershop01/domain/DealItem.java
+END
+Deal.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/447/trunk/supershop01-01/src/net/dfrz/supershop01/domain/Deal.java
+END
+SmallCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/469/trunk/supershop01-01/src/net/dfrz/supershop01/domain/SmallCategory.java
+END
+CartItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/201/trunk/supershop01-01/src/net/dfrz/supershop01/domain/CartItem.java
+END
+Goods.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/432/trunk/supershop01-01/src/net/dfrz/supershop01/domain/Goods.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/469/trunk/supershop01-01/src/net/dfrz/supershop01/domain/Category.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/378/trunk/supershop01-02/WebRoot/WEB-INF/lib
+END
+ojdbc6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/100/trunk/supershop01-02/WebRoot/WEB-INF/lib/ojdbc6.jar
+END
+jaxen-1.1-beta-10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/104/trunk/supershop01-02/WebRoot/WEB-INF/lib/jaxen-1.1-beta-10.jar
+END
+commons-fileupload-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/62/trunk/supershop01-02/WebRoot/WEB-INF/lib/commons-fileupload-1.1.1.jar
+END
+commons-lang3-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/62/trunk/supershop01-02/WebRoot/WEB-INF/lib/commons-lang3-3.0.1.jar
+END
+proxool-0.9.0RC3_.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/62/trunk/supershop01-02/WebRoot/WEB-INF/lib/proxool-0.9.0RC3_.jar
+END
+smartupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/62/trunk/supershop01-02/WebRoot/WEB-INF/lib/smartupload.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/104/trunk/supershop01-02/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar
+END
+commons-io-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/62/trunk/supershop01-02/WebRoot/WEB-INF/lib/commons-io-1.2.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/62/trunk/supershop01-02/WebRoot/WEB-INF/lib/commons-logging.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/378/trunk/supershop01-02/WebRoot/WEB-INF/lib/log4j-1.2.14.jar
+END

@@ -1,0 +1,21 @@
+#wrapper{ 
+  margin:10px;  
+}
+
+#f_title{
+  font-size:12px;
+  font-weight:bold;
+  width:100%;
+  border-bottom:1px solid gray; 
+  padding-border:2px;
+}
+
+.f_row,{
+  margin-top:10px;
+}
+.f_qury{
+  margin-top:0px;
+}
+.f_row span,.f_row input{
+  font-size:12px;
+}

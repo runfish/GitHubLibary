@@ -1,0 +1,78 @@
+8
+
+dir
+469
+https://supershop01-01.googlecode.com/svn/trunk/supershop01-01
+https://supershop01-01.googlecode.com/svn
+
+
+
+2013-03-22T15:16:49.796210Z
+469
+pingdongyu@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+77594a76-5b2b-1a52-1120-fdc55be98e2d
+
+.classpath
+file
+
+
+
+
+2013-03-22T13:28:27.757917Z
+404f9d1ae474735c00d68806d7e2fc83
+2013-03-22T15:16:49.796210Z
+469
+pingdongyu@gmail.com
+has-props
+
+WebRoot
+dir
+
+.mymetadata
+file
+
+
+
+
+2013-03-18T05:55:42.440238Z
+cdf508bd2e0cc57fc81bbfbfbeeb82d4
+2013-03-18T05:07:50.976217Z
+424
+594937650@qq.com
+
+.project
+file
+
+
+
+
+2013-03-13T12:00:59.747072Z
+883fae2ef77bda117e530c578d9177e6
+2013-02-24T08:13:40.247661Z
+233
+594937650@qq.com
+has-props
+
+src
+dir
+
+docs
+dir
+
+.settings
+dir
+

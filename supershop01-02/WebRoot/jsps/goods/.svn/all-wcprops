@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/458/trunk/supershop01-02/WebRoot/jsps/goods
+END
+list_goods.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/458/trunk/supershop01-02/WebRoot/jsps/goods/list_goods.jsp
+END
+input_goods.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/451/trunk/supershop01-02/WebRoot/jsps/goods/input_goods.jsp
+END
+update_goods.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/267/trunk/supershop01-02/WebRoot/jsps/goods/update_goods.jsp
+END

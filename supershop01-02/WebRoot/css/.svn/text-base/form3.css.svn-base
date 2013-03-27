@@ -1,0 +1,38 @@
+
+	    body,div,span{
+        margin:0px;
+        padding:0px;        
+      }
+	  .f1{
+	    font-size:16px;
+	    color:blue;
+	    teaxt-align:center;  
+	  }
+	  .f_row1,.result{
+	    font-size:20px;
+	    font-family:verdana;
+	    position:retative;
+	    left:100px;
+      }
+      .f_row1 span,.result input{
+        font-size:20px;
+        text-align:center;
+      }
+      .f_row{     
+        width:50%;
+        display:block;
+        float:left;line-height:26px;
+        
+      }
+	  .f_row span,.f_row input{
+	 
+	     color:red;
+         font-size:20px;
+         width:250px;
+         height:30px;       
+      }
+       h3{
+        font-size:30px;
+        font-family:verdana;
+        text-align:center;
+      }

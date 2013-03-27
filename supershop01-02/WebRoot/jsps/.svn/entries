@@ -1,0 +1,65 @@
+8
+
+dir
+469
+https://supershop01-01.googlecode.com/svn/trunk/supershop01-02/WebRoot/jsps
+https://supershop01-01.googlecode.com/svn
+
+
+
+2013-03-22T14:18:15.534610Z
+468
+594937650@qq.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+77594a76-5b2b-1a52-1120-fdc55be98e2d
+
+administrator
+dir
+
+customer
+dir
+
+login.jsp
+file
+
+
+
+
+2013-03-02T05:49:37.501485Z
+e0d7402711b1f40e4d67e0ff4c1f5483
+2013-03-01T16:12:55.292228Z
+298
+594937650@qq.com
+has-props
+
+main
+dir
+
+common
+dir
+
+deals
+dir
+
+error
+dir
+
+goods
+dir
+
+category
+dir
+

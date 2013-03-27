@@ -1,0 +1,28 @@
+body,span,div,ul,li,select,input,option{
+  margin:0px;
+  padding:0px;
+  font-size:12px;
+  font-family:verdana;
+}
+	    
+#wrapper{
+  margin-top:20px;
+  margin-left:20px;	       
+}
+	    
+.form_row{
+  margin-top:10px;
+}
+	    
+.rowHeader{
+  width:60px;
+  text-align:right;
+}
+.form_row select{
+  margin-left:5px;
+}
+	    
+#ctgSelectArea{
+  margin-top:5px;
+}
+	    

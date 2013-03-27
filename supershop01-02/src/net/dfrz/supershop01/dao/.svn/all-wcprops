@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/441/trunk/supershop01-02/src/net/dfrz/supershop01/dao
+END
+GoodsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/431/trunk/supershop01-02/src/net/dfrz/supershop01/dao/GoodsDao.java
+END
+CategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/441/trunk/supershop01-02/src/net/dfrz/supershop01/dao/CategoryDao.java
+END
+AdministratorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/431/trunk/supershop01-02/src/net/dfrz/supershop01/dao/AdministratorDao.java
+END
+CustomerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/431/trunk/supershop01-02/src/net/dfrz/supershop01/dao/CustomerDao.java
+END
+DealItemDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/415/trunk/supershop01-02/src/net/dfrz/supershop01/dao/DealItemDao.java
+END
+DealDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/415/trunk/supershop01-02/src/net/dfrz/supershop01/dao/DealDao.java
+END
+SmallCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/441/trunk/supershop01-02/src/net/dfrz/supershop01/dao/SmallCategoryDao.java
+END
+DaoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/270/trunk/supershop01-02/src/net/dfrz/supershop01/dao/DaoFactory.java
+END
